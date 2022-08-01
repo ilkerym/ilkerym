@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ilker
 - 👀 I’m interested in developing native app using Swift, playing tennis and  listening music are my favorite activities.
-- 🌱 I’m currently learning UI improvement.
+- 🌱 I’m currently learning declarative programming and architectural patterns.
 - 💞️ I’m looking to collaborate on any mobile project related with Apple Platforms.
 - 📫 How to reach me is as following, 
 e-mail : ilker.memisoglu@icloud.com
